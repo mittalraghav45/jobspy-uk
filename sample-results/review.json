@@ -1,0 +1,299 @@
+[
+  {
+    "title": "Junior Software Engineer",
+    "employer": "London Borough of Hillingdon",
+    "location": "Uxbridge, ENG, UK",
+    "salary": {
+      "min": 39519.0,
+      "max": 40575.0,
+      "currency": "GBP",
+      "interval": "yearly"
+    },
+    "posting_date": "2026-10-13T00:00:00.000",
+    "application_url": "https://hillingdoncouncilweb.eploy.net/vacancies/1338/junior-software-engineer.html?source=Indeed",
+    "vacancy_url": "https://uk.indeed.com/viewjob?jk=0e792a63bf79fe05",
+    "source": "indeed",
+    "employer_sector": "council",
+    "skill_experience_notes": {
+      "C#": "portfolio/project",
+      "ASP.NET": "portfolio/project",
+      "Blazor": "portfolio/project",
+      "Docker": "portfolio/project",
+      "Python": "basic knowledge",
+      "AI": "learning"
+    },
+    "matching_score": 54,
+    "matched_skills": [
+      "JavaScript",
+      "Python"
+    ],
+    "sponsorship_status": "unknown",
+    "sponsorship_evidence": [],
+    "evidence_url": "https://uk.indeed.com/viewjob?jk=0e792a63bf79fe05",
+    "description_available": true,
+    "review_required": true,
+    "id": "2ee5a33fa97ce86627d6"
+  },
+  {
+    "title": "Artificial Intelligence and Machine Learning Engineer (KTP Associate Position)",
+    "employer": "University of Salford",
+    "location": "Salford, ENG, UK",
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "interval": null
+    },
+    "posting_date": "2026-10-12T00:00:00.000",
+    "application_url": "https://iahgme.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/1049",
+    "vacancy_url": "https://uk.indeed.com/viewjob?jk=881d0870994db624",
+    "source": "indeed",
+    "employer_sector": "university",
+    "skill_experience_notes": {
+      "C#": "portfolio/project",
+      "ASP.NET": "portfolio/project",
+      "Blazor": "portfolio/project",
+      "Docker": "portfolio/project",
+      "Python": "basic knowledge",
+      "AI": "learning"
+    },
+    "matching_score": 47,
+    "matched_skills": [
+      "AI"
+    ],
+    "sponsorship_status": "unknown",
+    "sponsorship_evidence": [],
+    "evidence_url": "https://uk.indeed.com/viewjob?jk=881d0870994db624",
+    "description_available": true,
+    "review_required": true,
+    "id": "9209858c546c821ada4f"
+  },
+  {
+    "title": "Researcher - Full Stack Developer",
+    "employer": "SHEFFIELD HALLAM UNIVERSITY",
+    "location": "Sheffield, ENG, UK",
+    "salary": {
+      "min": 21722.0,
+      "max": 39560.0,
+      "currency": "GBP",
+      "interval": "yearly"
+    },
+    "posting_date": "2026-10-13T00:00:00.000",
+    "application_url": "https://my.corehr.com/pls/shurecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=120207",
+    "vacancy_url": "https://uk.indeed.com/viewjob?jk=397a458c322720a0",
+    "source": "indeed",
+    "employer_sector": "university",
+    "skill_experience_notes": {
+      "C#": "portfolio/project",
+      "ASP.NET": "portfolio/project",
+      "Blazor": "portfolio/project",
+      "Docker": "portfolio/project",
+      "Python": "basic knowledge",
+      "AI": "learning"
+    },
+    "matching_score": 37,
+    "matched_skills": [
+      "Python"
+    ],
+    "sponsorship_status": "unknown",
+    "sponsorship_evidence": [],
+    "evidence_url": "https://uk.indeed.com/viewjob?jk=397a458c322720a0",
+    "description_available": true,
+    "review_required": true,
+    "id": "4ceccf0b883d7b75f053"
+  },
+  {
+    "title": "Digital Skills Developer",
+    "employer": "Cardiff Metropolitan University",
+    "location": "Cardiff, WLS, UK",
+    "salary": {
+      "min": 39906.0,
+      "max": 44746.0,
+      "currency": "GBP",
+      "interval": "yearly"
+    },
+    "posting_date": "2026-10-12T00:00:00.000",
+    "application_url": "https://jobs.cardiffmet.ac.uk/vacancy.aspx?ref=2627065-1",
+    "vacancy_url": "https://uk.indeed.com/viewjob?jk=a1d5074ae7d20973",
+    "source": "indeed",
+    "employer_sector": "university",
+    "skill_experience_notes": {
+      "C#": "portfolio/project",
+      "ASP.NET": "portfolio/project",
+      "Blazor": "portfolio/project",
+      "Docker": "portfolio/project",
+      "Python": "basic knowledge",
+      "AI": "learning"
+    },
+    "matching_score": 35,
+    "matched_skills": [],
+    "sponsorship_status": "unknown",
+    "sponsorship_evidence": [],
+    "evidence_url": "https://uk.indeed.com/viewjob?jk=a1d5074ae7d20973",
+    "description_available": true,
+    "review_required": true,
+    "id": "d8f90658e5eae61f19e7"
+  },
+  {
+    "title": "Course Developer BA Landscape Design",
+    "employer": "University of the Arts London",
+    "location": "London, ENG, UK",
+    "salary": {
+      "min": 52977.0,
+      "max": 63815.0,
+      "currency": "GBP",
+      "interval": "yearly"
+    },
+    "posting_date": "2026-10-09T00:00:00.000",
+    "application_url": "https://jobs.arts.ac.uk/job/12745-course-developer-ba-landscape-design/",
+    "vacancy_url": "https://uk.indeed.com/viewjob?jk=404cc334dbdd1632",
+    "source": "indeed",
+    "employer_sector": "university",
+    "skill_experience_notes": {
+      "C#": "portfolio/project",
+      "ASP.NET": "portfolio/project",
+      "Blazor": "portfolio/project",
+      "Docker": "portfolio/project",
+      "Python": "basic knowledge",
+      "AI": "learning"
+    },
+    "matching_score": 35,
+    "matched_skills": [],
+    "sponsorship_status": "unknown",
+    "sponsorship_evidence": [],
+    "evidence_url": "https://uk.indeed.com/viewjob?jk=404cc334dbdd1632",
+    "description_available": true,
+    "review_required": true,
+    "id": "4416ce4975e68ac77e12"
+  },
+  {
+    "title": "Course Developer MA Landscape Design",
+    "employer": "University of the Arts London",
+    "location": "London, ENG, UK",
+    "salary": {
+      "min": 52977.0,
+      "max": 63815.0,
+      "currency": "GBP",
+      "interval": "yearly"
+    },
+    "posting_date": "2026-10-09T00:00:00.000",
+    "application_url": "https://jobs.arts.ac.uk/job/12746-course-developer-ma-landscape-design/",
+    "vacancy_url": "https://uk.indeed.com/viewjob?jk=c0563b42c688631c",
+    "source": "indeed",
+    "employer_sector": "university",
+    "skill_experience_notes": {
+      "C#": "portfolio/project",
+      "ASP.NET": "portfolio/project",
+      "Blazor": "portfolio/project",
+      "Docker": "portfolio/project",
+      "Python": "basic knowledge",
+      "AI": "learning"
+    },
+    "matching_score": 35,
+    "matched_skills": [],
+    "sponsorship_status": "unknown",
+    "sponsorship_evidence": [],
+    "evidence_url": "https://uk.indeed.com/viewjob?jk=c0563b42c688631c",
+    "description_available": true,
+    "review_required": true,
+    "id": "072ae4fb35c1d47824f2"
+  },
+  {
+    "title": "AI Agent Developer",
+    "employer": "NHS",
+    "location": "Southend-on-Sea, ENG, UK",
+    "salary": {
+      "min": 49387.0,
+      "max": 49387.0,
+      "currency": "GBP",
+      "interval": "yearly"
+    },
+    "posting_date": "2026-10-13T00:00:00.000",
+    "application_url": "https://www.mse.nhs.uk/current-vacancies?ref=Indeed#!/job/v8235665?_ts=",
+    "vacancy_url": "https://uk.indeed.com/viewjob?jk=718cb94d7e0e0531",
+    "source": "indeed",
+    "employer_sector": "NHS",
+    "skill_experience_notes": {
+      "C#": "portfolio/project",
+      "ASP.NET": "portfolio/project",
+      "Blazor": "portfolio/project",
+      "Docker": "portfolio/project",
+      "Python": "basic knowledge",
+      "AI": "learning"
+    },
+    "matching_score": 35,
+    "matched_skills": [],
+    "sponsorship_status": "unknown",
+    "sponsorship_evidence": [],
+    "evidence_url": "https://uk.indeed.com/viewjob?jk=718cb94d7e0e0531",
+    "description_available": true,
+    "review_required": true,
+    "id": "b084c6580ef3d8830465"
+  },
+  {
+    "title": "Systems Developer - REQ06760",
+    "employer": "North Lanarkshire Council",
+    "location": "Motherwell, SCT, UK",
+    "salary": {
+      "min": 31541.0,
+      "max": 34307.0,
+      "currency": "GBP",
+      "interval": "yearly"
+    },
+    "posting_date": "2026-10-07T00:00:00.000",
+    "application_url": "https://myjobscotland.gov.uk/councils/north-lanarkshire-council/jobs/systems-developer-req06760-491667",
+    "vacancy_url": "https://uk.indeed.com/viewjob?jk=f581876f7c883c12",
+    "source": "indeed",
+    "employer_sector": "council",
+    "skill_experience_notes": {
+      "C#": "portfolio/project",
+      "ASP.NET": "portfolio/project",
+      "Blazor": "portfolio/project",
+      "Docker": "portfolio/project",
+      "Python": "basic knowledge",
+      "AI": "learning"
+    },
+    "matching_score": 35,
+    "matched_skills": [],
+    "sponsorship_status": "not_available",
+    "sponsorship_evidence": [
+      "North Lanarkshire Council has reached its current allocation of Certificates of Sponsorship and, as a result, we are unable to provide visa sponsorship at this time."
+    ],
+    "evidence_url": "https://uk.indeed.com/viewjob?jk=f581876f7c883c12",
+    "description_available": true,
+    "review_required": true,
+    "id": "76cf94de36c7131e517a"
+  },
+  {
+    "title": "Sustainability in the NHS - Course Developer and Skills Coach",
+    "employer": "KnowledgeBrief",
+    "location": "London, ENG, UK",
+    "salary": {
+      "min": null,
+      "max": 37500.0,
+      "currency": "GBP",
+      "interval": "yearly"
+    },
+    "posting_date": "2026-10-07T00:00:00.000",
+    "application_url": "https://knowledgebrief.bamboohr.com/careers/315?source=indeed&src=indeed&postedDate=2026-10-07",
+    "vacancy_url": "https://uk.indeed.com/viewjob?jk=a7555ef9b4321d2f",
+    "source": "indeed",
+    "employer_sector": "other",
+    "skill_experience_notes": {
+      "C#": "portfolio/project",
+      "ASP.NET": "portfolio/project",
+      "Blazor": "portfolio/project",
+      "Docker": "portfolio/project",
+      "Python": "basic knowledge",
+      "AI": "learning"
+    },
+    "matching_score": 35,
+    "matched_skills": [],
+    "sponsorship_status": "unknown",
+    "sponsorship_evidence": [],
+    "evidence_url": "https://uk.indeed.com/viewjob?jk=a7555ef9b4321d2f",
+    "description_available": true,
+    "review_required": true,
+    "id": "beeabd79d2aed99fc8ad"
+  }
+]

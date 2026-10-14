@@ -8,3 +8,7 @@
 *.pyc
 .env
 dist
+# UK local runtime
+.venv/
+__pycache__/
+results/

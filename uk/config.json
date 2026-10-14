@@ -1,0 +1,18 @@
+{
+  "sites": [
+    "indeed"
+  ],
+  "queries": [
+    "university software developer",
+    "university AI engineer",
+    "NHS software developer",
+    "council software developer",
+    "DWP software engineer",
+    "React developer visa sponsorship",
+    "C# ASP.NET Blazor developer visa sponsorship",
+    "junior AI engineer visa sponsorship"
+  ],
+  "location": "United Kingdom",
+  "results_per_query": 30,
+  "hours_old": 168
+}

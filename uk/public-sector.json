@@ -1,0 +1,15 @@
+{
+  "sites": [
+    "indeed"
+  ],
+  "queries": [
+    "university software developer",
+    "university AI engineer",
+    "NHS software developer",
+    "council software developer",
+    "DWP software engineer"
+  ],
+  "location": "United Kingdom",
+  "results_per_query": 30,
+  "hours_old": 168
+}
